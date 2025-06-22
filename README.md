@@ -1,6 +1,9 @@
 # Complete AI Learning Materials.
 
- > Deep Learning. 
+ > Deep Learning.
+
  > Machine learning.
+
  > NLP.
+
  > Computer Vision.
