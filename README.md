@@ -1,2 +1,9 @@
-# Data-Science-2025
-W3Resource Full Exercise of Data Science &amp; Python 2025.
+# Complete AI Learning Materials.
+
+ > Deep Learning.
+
+ > Machine learning.
+
+ > NLP.
+
+ > Computer Vision.
