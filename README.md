@@ -7,3 +7,7 @@
  > NLP.
 
  > Computer Vision.
+
+ > Generative AI
+ 
+ > LLM
