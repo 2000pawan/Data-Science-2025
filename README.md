@@ -12,6 +12,8 @@
  
  > LLM
 
- > Langchain 
+ > LangChain 
 
  >  RAG
+ 
+ > LangGraph
