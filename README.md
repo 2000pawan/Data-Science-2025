@@ -18,4 +18,6 @@
  
  > LangGraph
  
- > Agentic Ai 
+ > Agentic Ai
+
+ > Unsloth
