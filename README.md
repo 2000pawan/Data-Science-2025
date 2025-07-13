@@ -23,3 +23,5 @@
  > Unsloth
 
  > Fine Tuning
+ 
+ > FAISS
