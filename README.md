@@ -27,3 +27,6 @@
  > FAISS
 
  > NLU
+
+ > HuggingFace
+ 
