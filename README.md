@@ -29,5 +29,7 @@
  > NLU
 
  > HuggingFace
+ 
+ > Gemini
 
  > Llama
