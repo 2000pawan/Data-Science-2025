@@ -33,3 +33,5 @@
  > Gemini
 
  > Llama
+ 
+ > Mistral
