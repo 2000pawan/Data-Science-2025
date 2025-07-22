@@ -35,3 +35,5 @@
  > Llama
  
  > Mistral
+ 
+ > LangSmith
