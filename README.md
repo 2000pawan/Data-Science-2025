@@ -38,4 +38,6 @@
  
  > LangSmith
  
- > vector database 
+ > vector database
+ 
+ > Ollama  
